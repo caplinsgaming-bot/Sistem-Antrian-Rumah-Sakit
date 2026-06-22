@@ -1,0 +1,4 @@
+id_pasien,nama,usia,keluhan,prioritas,status,waktu_daftar
+P001,Andi Saputra,45,Sesak Napas,Darurat,Menunggu,2026-06-22 08:00:00
+P002,Siti Aminah,30,Demam Tinggi,Mendesak,Menunggu,2026-06-22 08:05:00
+P003,Budi Hartono,22,Kontrol Rutin,Normal,Menunggu,2026-06-22 08:10:00
